@@ -91,6 +91,6 @@ print(s.recv(1024).decode())
 s.send("acknowledgement recived from the server".encode())
 ```
 # Output:
-![alt text](<../Screenshot 2024-09-01 161353.png>)
+![output](<Screenshot 2024-09-01 161353.png>)
 ## Result:
 Thus the study of Socket Programming Completed Successfully
