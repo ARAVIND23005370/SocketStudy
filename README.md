@@ -1,5 +1,3 @@
-# Develop By : Aravind R
-# Reg No : 212223230019
 # Ex.No:1a                      Study of Socket Programming
 
 ## Aim: 
